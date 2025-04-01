@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Upender Singh Lakhwan</h1>
 <h3 align="center">MERN Full Stack and Game Developer with a passion for technology, recognized for leadership in Google Developer Student Clubs.</h3>
 
-- 🔭 I’m currently working on [PostPulse](https://github.com/LaKhWaN/PostPulse)
+- 🔭 I’m currently working as Full Stack Engineer [@ClipWise.ai](https://clipwise.ai/)
 
 - 🌱 I’m currently expanding my knowledge in **MERN Stack Development**
 
 - 👨‍💻 My LinkedIn Profile [https://www.linkedin.com/in/upenderlakhwan/](https://www.linkedin.com/in/upenderlakhwan/)
 
-- 💬 Ask me about **React, Express, MongoDB, Firebase, Python, php, HTML, CSS, JS, PAWN**
+- 💬 Ask me about **React, Express, Nest.js, Django, MongoDB, Firebase, Python, php, HTML, CSS, JS, PAWN**
 
-- 📫 How to reach me **lakhwanus009@gmail.com**
+- 📫 How to reach me **upenderlakhwan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
